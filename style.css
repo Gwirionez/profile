@@ -1,0 +1,72 @@
+.arrondie {
+  border-radius: 50%;
+  }
+
+body {
+  margin: 0;
+  background-color: #ffffe6;
+  font-family: 'Raleway', sans-serif;
+  color: #000099;
+  line-height: normal;
+  text-align: center;
+
+}
+
+.banner {
+  background-image:url(images/paper.jpg);
+  padding: 1px;
+  margin: auto;
+  width: 500px;
+}
+
+h2 {
+  color: #4775d1;
+  font-family: "Raleway";
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+h3 {
+  letter-spacing: 0.5px;
+}
+
+
+p {
+  padding:20px;
+  margin: auto;
+  text-align: justify;
+  }
+
+.links {
+  font-size: 20px;
+  font-weight: 700;
+  color: #cc0000;
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+.hover:hover {
+    color: #800000;
+}
+
+.card-picture {
+  background-image:url(images/paper.jpg);
+  width: 500px;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
